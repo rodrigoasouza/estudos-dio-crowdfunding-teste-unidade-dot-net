@@ -5,7 +5,7 @@ using Vaquinha.Domain.Entities;
 
 namespace Vaquinha.Repository.Context
 {
-    public class VaquinhaOnLineSeed
+    public static class VaquinhaOnLineSeed
     {
         public static void Seed(VaquinhaOnlineDBContext context)
         {
