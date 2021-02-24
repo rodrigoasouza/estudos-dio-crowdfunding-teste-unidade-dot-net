@@ -1,0 +1,26 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Vaquinha/v16
+/src/Vaquinha.Domain/bin
+/src/Vaquinha.Domain/obj
+/src/Vaquinha.MVC/.vscode
+/src/Vaquinha.MVC/bin
+/src/Vaquinha.MVC/obj
+/src/Vaquinha.Repository/bin
+/src/Vaquinha.Repository/obj
+/src/Vaquinha.Service/bin
+/src/Vaquinha.Service/obj
+/tests/Vaquinha.Automated.UI.Tests/.vscode
+/tests/Vaquinha.Automated.UI.Tests/bin
+/tests/Vaquinha.Automated.UI.Tests/obj
+/tests/Vaquinha.Integration.Tests/.vscode
+/tests/Vaquinha.Integration.Tests/bin
+/tests/Vaquinha.Integration.Tests/obj
+/tests/Vaquinha.Tests.Common/bin
+/tests/Vaquinha.Tests.Common/obj
+/tests/Vaquinha.Unit.Tests/.vscode
+/tests/Vaquinha.Unit.Tests/bin
+/tests/Vaquinha.Unit.Tests/obj
+/.vs/Vaquinha/DesignTimeBuild
